@@ -1,1 +1,117 @@
 # Excel-project-3
+# Sales Performance Dashboard – 2014
+
+ ## Project Overview
+
+ The **Sales Performance Dashboard – 2014** is an interactive business intelligence dashboard designed to analyze sales performance across salespeople, products, sales ranges, and monthly trends.
+
+ The dashboard provides a consolidated view of **2014 sales performance**, helping identify high-performing salespeople and products, understand monthly sales fluctuations, and recognize areas of sales concentration.
+
+ ## Dashboard Objectives
+
+ The primary objectives of this project are to:
+
+ - Analyze overall sales performance for 2014.
+- Compare sales contributions across individual salespeople.
+- Identify the top-performing products.
+- Analyze monthly sales trends and fluctuations.
+- Understand how total sales are distributed across different sales ranges.
+- Provide an interactive interface for filtering the analysis by salesperson, order date, and region.
+
+ ## Key Performance Indicators
+
+ | Metric | Result |
+| --- | --- |
+| Total Sales | **$714,316** |
+| Top Salesperson | **Nancy Free... – $246,050** |
+| Top Product | **Almonds – $258,794** |
+| Highest Sales Month | **February – $278K** |
+| Top 5 Product Sales | **$490,013** |
+
+## Key Business Insights
+
+ ### 1\. Salesperson Performance
+
+ Nancy Free... is the strongest-performing salesperson, generating **$246,050**, which represents approximately **34.4% of total sales**.
+
+ Anne Larsen and Michael Nei... follow with **$128,855** and **$125,642**, respectively.
+
+ The top three salespeople collectively generated approximately **$500,547**, accounting for around **70.1% of total sales**. This indicates a significant concentration of revenue among the leading sales representatives.
+
+ ### 2\. Product Performance
+
+ **Almonds** is the highest-performing product with sales of **$258,794**, contributing approximately **36.2% of total sales**.
+
+ The other top-performing products are:
+
+ 1. Almonds – **$258,794**
+2. Coffee – **$75,486**
+3. Curry Sauce – **$72,400**
+4. Marmalade – **$47,628**
+5. Mozzarella – **$35,705**
+
+ The five leading products generated a combined **$490,013**, representing approximately **68.6% of total sales**. This highlights the importance of focusing on high-performing products while identifying opportunities to improve the contribution of lower-performing products.
+
+ ### 3\. Monthly Sales Trend
+
+ February recorded the highest monthly sales at approximately **$278K**, significantly exceeding the other months.
+
+ Other notable months include:
+
+ - December – **$67K**
+- June – **$56K**
+- October – **$53K**
+- March – **$52K**
+
+ January started at approximately **$33K**, followed by a substantial increase in February. Sales then declined sharply in March and remained comparatively moderate throughout most of the year.
+
+ The significant February spike suggests the possibility of seasonal demand, promotional activity, or other business factors that could be investigated further.
+
+ ### 4\. Sales Range Analysis
+
+ The sales-range analysis shows the following distribution:
+
+ | Sales Range | Total Sales |
+| --- | --- |
+| 0–10,000 | **$459,962** |
+| 130,000–140,000 | **$136,272** |
+| 80,000–90,000 | **$87,278** |
+| 30,000–40,000 | **$30,804** |
+
+The **0–10,000 sales range contributes approximately 64.4% of total sales**, making it the dominant category in the sales-range analysis.
+
+ This concentration suggests that a large portion of the business is generated through lower-value sales transactions, which could provide an opportunity to explore strategies for increasing average transaction value.
+
+ ## Interactive Dashboard Features
+
+ The dashboard includes interactive filtering capabilities for:
+
+ - **Salesperson**
+- **Order Date**
+- **Year and Month**
+- **Region**
+- **Sales Range**
+- **Product Performance**
+
+ These filters allow users to move from a high-level overview to a more focused analysis of specific salespeople, regions, periods, and business segments.
+
+ ## Business Recommendations
+
+ Based on the dashboard analysis, the following actions could be considered:
+
+ 1. **Analyze Nancy Free...'s performance** to identify successful sales practices that could be replicated across the wider sales team.
+2. **Prioritize high-performing products**, particularly Almonds, while evaluating opportunities to increase sales of lower-performing products.
+3. **Investigate the February sales spike** to understand whether promotions, seasonal demand, regional performance, or other factors contributed to the increase.
+4. **Develop strategies to increase transaction value**, given the high concentration of sales in the 0–10K range.
+5. **Monitor sales concentration risk** by tracking dependence on a small number of salespeople and products.
+6. **Use regional and salesperson filters** to identify underperforming areas and develop targeted improvement strategies.
+
+ ## Conclusion
+
+ The 2014 Sales Performance Dashboard provides a comprehensive view of business performance with **$714,316 in total sales**. The analysis reveals strong revenue concentration among the leading salespeople and products, with **Nancy Free...** and **Almonds** emerging as the strongest contributors.
+
+ The monthly trend also highlights an exceptional performance spike in February, while the sales-range analysis indicates that most revenue is concentrated within the lower sales-value range. These insights can support data-driven decisions related to sales strategy, product prioritization, sales-team performance, and revenue growth.
+
+ ## Project Purpose
+
+ This project demonstrates the practical application of **data visualization and business analytics** to transform raw sales data into actionable business insights. The dashboard is designed to support management-level decision-making by presenting key performance metrics and trends in a clear and interactive format.
